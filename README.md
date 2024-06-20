@@ -37,6 +37,7 @@ dropdown menu, such as changing colors and positioning.
 TASK 3
 
 CREATE A CHATTING APPLICATION/WEBSITE
+
 You can create a chat application or website to serve the purpose of
 individual or group chats between networks.
 
